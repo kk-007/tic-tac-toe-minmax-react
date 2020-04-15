@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-minmax-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/tic-tac-toe-minmax-react/static/js/main.7ae3ef3f.chunk.js",
+    "main.js.map": "/tic-tac-toe-minmax-react/static/js/main.7ae3ef3f.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe-minmax-react/static/js/runtime-main.ec0a4254.js",
+    "runtime-main.js.map": "/tic-tac-toe-minmax-react/static/js/runtime-main.ec0a4254.js.map",
+    "static/js/2.f7c22329.chunk.js": "/tic-tac-toe-minmax-react/static/js/2.f7c22329.chunk.js",
+    "static/js/2.f7c22329.chunk.js.map": "/tic-tac-toe-minmax-react/static/js/2.f7c22329.chunk.js.map",
+    "index.html": "/tic-tac-toe-minmax-react/index.html",
+    "precache-manifest.7d85c6ad365ea1a118b70fb6d2fbc837.js": "/tic-tac-toe-minmax-react/precache-manifest.7d85c6ad365ea1a118b70fb6d2fbc837.js",
+    "service-worker.js": "/tic-tac-toe-minmax-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/tic-tac-toe-minmax-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f7c22329.chunk.js.LICENSE.txt": "/tic-tac-toe-minmax-react/static/js/2.f7c22329.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec0a4254.js",
+    "static/js/2.f7c22329.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7ae3ef3f.chunk.js"
+  ]
+}
