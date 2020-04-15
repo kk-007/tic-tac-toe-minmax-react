@@ -11,18 +11,20 @@ import Typography from '@material-ui/core/Typography';
           background:"#555"
       }
   }
-
-function Board() {
-    let Board = ['','','','','','','','',''];
-    let board = Board.map((e,index)=>(
+function Board(props) {
+    // let Board = ['','','','','','','','',''];
+    let board = [...props.board[0],...props.board[1],...props.board[2]].map((e,index)=>(
         <Grid item xs={4} sm={4} key={index}>
-                    <Typography variant="h1" component="h1">
+            <div onClick={()=>props.handleClick(index)} >
+                    <Typography variant="h1" component="h1" onClick = {props.hadleClick}>
                     <Paper
                         style={style.paper}
                         children={e}
                         />
                     </Typography>
+                    </div>
                 </Grid>
+
     ));
     return (
         <div>
